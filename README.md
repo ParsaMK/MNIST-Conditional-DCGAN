@@ -1,8 +1,8 @@
 # MNIST-Conditional-DCGAN
 
-An implementation of a cGAN adding the conditional apponent to the DCGAN architecture
+An implementation of a cGAN adding the conditional apponent to the DCGAN architecture trained on the MNIST dataset.
 
-The following work has been done as part of a 3-credited coursework of Deep Learning at the University of Bologna
+The following work has been done as part of a 3-credited coursework project of Deep Learning at the University of Bologna
 
 The notebook file can be opened using colab given the colab badge below:
 
